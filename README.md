@@ -1,5 +1,5 @@
 
-NYTimesTask
+CarsAssessment
 
 * I applied the MVVM design pattern with rx data binding.
     
